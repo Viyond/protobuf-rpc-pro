@@ -3,7 +3,9 @@ What changes are made from release to release. Check SVN history for more detail
 # 3.3.2 #
 
 [#37](https://github.com/pjklauser/protobuf-rpc-pro/pull/37) CleanShutdownHandler to support shutdown on demand.
+
 [#42](https://github.com/pjklauser/protobuf-rpc-pro/issues/42) CleanShutdownHandler to shutdown RpcClientConnectionWatchdog.
+
 [#43](https://github.com/pjklauser/protobuf-rpc-pro/issues/43) RpcClientChannel support "attributes" and isClosed method.
 
 Upgrade to Netty 4.0.31.Final
