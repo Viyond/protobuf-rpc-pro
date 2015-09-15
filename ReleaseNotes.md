@@ -1,5 +1,13 @@
 What changes are made from release to release. Check SVN history for more details.
 
+
+# 3.3.3 #
+
+[#45](https://github.com/pjklauser/protobuf-rpc-pro/issues/45) RpcClientChannel support "attributes" on initial connection (peerWith)
+
+[#44](https://github.com/pjklauser/protobuf-rpc-pro/issues/44) CleanShutdownHandler explicit shutdown leaves non daemon threads hanging which prohibit later JVM shutdown.
+
+
 # 3.3.2 #
 
 [#37](https://github.com/pjklauser/protobuf-rpc-pro/pull/37) CleanShutdownHandler to support shutdown on demand.
