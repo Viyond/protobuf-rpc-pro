@@ -1,5 +1,14 @@
 What changes are made from release to release. Check SVN history for more details.
 
+# 3.3.4 #
+
+[#49](https://github.com/pjklauser/protobuf-rpc-pro/issues/49) StackOverflowError DuplexTcpClientPipelineFactory.peerWith
+
+[#48](https://github.com/pjklauser/protobuf-rpc-pro/issues/48) WatchdogThread is not renamed to a readable thread name
+
+[#46](https://github.com/pjklauser/protobuf-rpc-pro/issues/46) CleanShutdownHandler leaves shutdown hook registered when shutdown explicitly
+
+Upgrade to Netty 4.0.33.Final
 
 # 3.3.3 #
 
